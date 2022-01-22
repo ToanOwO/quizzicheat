@@ -1,1 +1,0 @@
-chrome-extension://ogdlpmhglpejoiomcodnpjnfgcpmgale/libs/cursor.js
